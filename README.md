@@ -1,3 +1,4 @@
+![Aurora Assets Screenshot 0001](https://github.com/random-archer/mkinitcpio-systemd-tool/assets/140856042/23a4676e-0851-4460-b165-24ae204f3036)
 ##### This file is part of https://github.com/random-archer/mkinitcpio-systemd-tool
 
 ## mkinitcpio-systemd-tool
